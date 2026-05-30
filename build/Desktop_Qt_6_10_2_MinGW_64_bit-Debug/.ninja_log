@@ -1,0 +1,18 @@
+# ninja log v6
+12	1327	8009008398627287	TorneoPoder_DragonBall_autogen/timestamp	5b98de0b77b2bb2d
+12	1327	8009008398627287	TorneoPoder_DragonBall_autogen/mocs_compilation.cpp	5b98de0b77b2bb2d
+12	1327	8009008398627287	C:/Users/knigh/Desktop/TP/TorneoPoder_DragonBall/TorneoPoder_DragonBall/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/TorneoPoder_DragonBall_autogen/timestamp	5b98de0b77b2bb2d
+12	1327	8009008398627287	C:/Users/knigh/Desktop/TP/TorneoPoder_DragonBall/TorneoPoder_DragonBall/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/TorneoPoder_DragonBall_autogen/mocs_compilation.cpp	5b98de0b77b2bb2d
+1361	1476	8009008401252970	TorneoPoder_DragonBall_autogen/EWIEGA46WW/qrc_recursos.cpp	f49c5fdca80d3c07
+1361	1476	8009008401252970	C:/Users/knigh/Desktop/TP/TorneoPoder_DragonBall/TorneoPoder_DragonBall/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/TorneoPoder_DragonBall_autogen/EWIEGA46WW/qrc_recursos.cpp	f49c5fdca80d3c07
+1529	1694	8009008401949548	CMakeFiles/TorneoPoder_DragonBall.dir/objetojuego.cpp.obj	636dcc1a3618f1a4
+1536	1819	8009008402019565	CMakeFiles/TorneoPoder_DragonBall.dir/TorneoPoder_DragonBall_autogen/EWIEGA46WW/qrc_recursos.cpp.obj	3b56442731418823
+1505	2072	8009008401709553	CMakeFiles/TorneoPoder_DragonBall.dir/proyectil.cpp.obj	a54155a3f9da7167
+1518	2123	8009008401829533	CMakeFiles/TorneoPoder_DragonBall.dir/itemflotante.cpp.obj	fae80af3889b9851
+1512	2285	8009008401769503	CMakeFiles/TorneoPoder_DragonBall.dir/enemigoia.cpp.obj	dfaa5e72be59ef6e
+1498	2320	8009008401639474	CMakeFiles/TorneoPoder_DragonBall.dir/entidadcombate.cpp.obj	9fb9f6b4b1cfcea
+1485	5930	8009008401514546	CMakeFiles/TorneoPoder_DragonBall.dir/main.cpp.obj	923b0142c2a19807
+1492	6320	8009008401569460	CMakeFiles/TorneoPoder_DragonBall.dir/mainwindow.cpp.obj	39f72b10bdbd163c
+1477	6325	8009008401424342	CMakeFiles/TorneoPoder_DragonBall.dir/TorneoPoder_DragonBall_autogen/mocs_compilation.cpp.obj	b994b91123d6e94a
+1524	6426	8009008401889526	CMakeFiles/TorneoPoder_DragonBall.dir/juegogui.cpp.obj	e76266784ddae4a4
+6426	6742	8009008450924841	TorneoPoder_DragonBall.exe	fc3c40c4234bb490
